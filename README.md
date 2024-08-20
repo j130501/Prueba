@@ -1,2 +1,3 @@
 # Primer proyecto
-## JMC
+# Construccion de software
+Autor: JMC
